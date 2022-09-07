@@ -2,9 +2,9 @@
 java-spring-epictask
 Aplicação spring boot para crud de tarefas.
 
-pré requisitos:
-java 17
-Maven
+Pré requisitos:
+
+java 17 e Maven
 
 --
 
